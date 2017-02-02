@@ -1,10 +1,10 @@
-<span id="a">amit@turdoide</span>:<span id="b">~</span><span id="c">$</span> cat mr_turdoide.txt<br/><br>
-Hello mate, I am mr_turdoide from TURDOIDE Group.<p>I am technologist aiming to learn almost the skills related to computer technology.</p>
-<p>You can use and modify my software for free on my <a target="_blank" href="https://github.com/mr_turdoide/">Github</a>.</p>
+<span id="a">user@turdoide</span>:<span id="b">~</span><span id="c">$</span> cat greetings.txt<br/><br>
+Hello mate, we are TURDOIDE Group.<p>We are a team of young professionals aiming to step high in the tech world.</p>
+<p>You can use and modify our software for free on our <a target="_blank" href="https://github.com/turdoide/">Github Repo</a>.</p>
 <br>
-<span id="a">amit@turdoide</span>:<span id="b">~</span><span id="c">$</span> exit
+<span id="a">user@turdoide</span>:<span id="b">~</span><span id="c">$</span> exit
 Are you sure you want to quit ? [Y/n] ("A" to abort): Y
-<p> Thanks for using this terminal! </p>
+<p> Thanks for using our terminal! </p>
 
 
-Copyleft :-) None Rights Reserved. You can fork me without permission and notification!
+Copyleft :-) None Rights Reserved. You can fork our projects without permission and notification! Enjoy!!
