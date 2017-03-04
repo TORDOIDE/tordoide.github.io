@@ -556,15 +556,15 @@ h5.w3ls-counter {
     padding: 0;
 }
 .services-grid.services-img,.services-grid.services-img2,.services-grid.services-img3,.services-grid.services-img4,.services-grid.services-img5,.services-grid.services-img6 {
-    background: url(../images/img5.jpg) no-repeat center 0px;
+    background: url(../images/amit.jpg) no-repeat center 0px;
     background-size: cover;  
 }
 .services-grid.services-img2{
-    background: url(../images/img6.jpg) no-repeat center 0px; 
+    background: url(../images/nav.jpg) no-repeat center 0px; 
 	background-size: cover;
 }
 .services-grid.services-img3{
-    background: url(../images/img7.jpg) no-repeat center 0px; 
+    background: url(../images/img10.jpg) no-repeat center 0px; 
 	background-size: cover;
 	float: right;
 }
