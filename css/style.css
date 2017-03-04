@@ -568,6 +568,41 @@ h5.w3ls-counter {
 	background-size: cover;
 	float: right;
 }
+
+
+.services-grid.services-img7,.services-grid.services-img8,.services-grid.services-img9,.services-grid.services-img4,.services-grid.services-img5,.services-grid.services-img6 {
+    background: url(../images/aabiskar.jpg) no-repeat center 0px;
+    background-size: cover;  
+}
+.services-grid.services-img8{
+    background: url(../images/rajan.jpg) no-repeat center 0px; 
+	background-size: cover;
+}
+.services-grid.services-img9{
+    background: url(../images/unique.jpg) no-repeat center 0px; 
+	background-size: cover;
+	float: right;
+}
+
+
+
+
+.services-grid.services-img10,.services-grid.services-img11,.services-grid.services-img12,.services-grid.services-img4,.services-grid.services-img5,.services-grid.services-img6 {
+    background: url(../images/prateek.jpg) no-repeat center 0px;
+    background-size: cover;  
+}
+.services-grid.services-img11{
+    background: url(../images/suraj.jpg) no-repeat center 0px; 
+	background-size: cover;
+}
+.services-grid.services-img12{
+    background: url(../images/sagun.jpg) no-repeat center 0px; 
+	background-size: cover;
+	float: right;
+}
+
+
+
 .services-grid.services-img4{
     background: url(../images/img8.jpg) no-repeat center 0px; 
 	background-size: cover; 
