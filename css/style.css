@@ -412,7 +412,7 @@ h3.w3ls-title {
 }
 .welcome-grid-left p{
 	margin: 1em 0 0;
-	color: black;
+	color: white;
 }
 .welcome-grid-right{
 	float:right;
@@ -575,7 +575,7 @@ h5.w3ls-counter {
 
 
 .services-grid.services-img7,.services-grid.services-img8,.services-grid.services-img9,.services-grid.services-img4,.services-grid.services-img5,.services-grid.services-img6 {
-    background: url(../images/aabiskar.jpg) no-repeat center 0px;
+    background: url(../images/aabis.jpg) no-repeat center 0px;
     background-size: cover;  
 }
 .services-grid.services-img8{
@@ -583,7 +583,7 @@ h5.w3ls-counter {
 	background-size: cover;
 }
 .services-grid.services-img9{
-    background: url(../images/unique.jpg) no-repeat center 0px; 
+    background: url(../images/unik.jpg) no-repeat center 0px; 
 	background-size: cover;
 	float: right;
 }
