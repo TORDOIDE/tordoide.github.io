@@ -1,10 +1,5 @@
-Client Testimonials Carousel
+Coming soon
 =========
 
-A responsive carousel showcasing selected client testimonials, powered by CSS and jQuery.
+[Link](https://tordoide.github.io)
 
-[Article on CodyHouse](http://codyhouse.co/gem/client-testimonials-carousel/)
-
-[Demo](http://codyhouse.co/demo/client-testimonials-carousel/index.html)
- 
-[Terms](http://codyhouse.co/terms/)
